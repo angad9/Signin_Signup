@@ -32,6 +32,39 @@ const Signup = () => {
             autoComplete="off"
             placeholder="Enter Password"
           />
+          <label htmlFor="name">Linkdin Id </label>
+          <input
+            type="text"
+            id="linkdinid"
+            name="linkdinid"
+            autoComplete="off"
+            placeholder="Linkdin Id Email"
+          />
+          <label htmlFor="Password">Linkdin Password:</label>
+          <input
+            type="password"
+            id="password"
+            name="password"
+            autoComplete="off"
+            placeholder="Enter Password"
+          />
+          <label htmlFor="name">Naukri User Name or Email</label>
+          <input
+            type="text"
+            id="naukriusername"
+            name="naukriusername"
+            autoComplete="off"
+            placeholder="Enter your Naukri user name"
+          />
+          <label htmlFor="Password">Naukri Password:</label>
+          <input
+            type="password"
+            id="naukripassword"
+            name="naukripassword"
+            autoComplete="off"
+            placeholder="Enter Password"
+          />
+          
           <button type="submit" class="btn btn-success">
             Sign Up
           </button>
