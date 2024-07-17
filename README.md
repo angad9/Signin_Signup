@@ -1,8 +1,8 @@
 ﻿# Signin_Signup
-
- intal the dipendancy 
- npm i
+ install the dependency 
+ 
+` npm i`
 
  then hit the command for run
 
- npm start
+ `npm start`
